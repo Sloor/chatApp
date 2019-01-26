@@ -1,0 +1,13 @@
+{
+  "main.css": "/chatApp/static/css/main.0bd76518.chunk.css",
+  "main.js": "/chatApp/static/js/main.2dc3d827.chunk.js",
+  "main.js.map": "/chatApp/static/js/main.2dc3d827.chunk.js.map",
+  "static/js/1.5359e0ac.chunk.js": "/chatApp/static/js/1.5359e0ac.chunk.js",
+  "static/js/1.5359e0ac.chunk.js.map": "/chatApp/static/js/1.5359e0ac.chunk.js.map",
+  "runtime~main.js": "/chatApp/static/js/runtime~main.89b814fe.js",
+  "runtime~main.js.map": "/chatApp/static/js/runtime~main.89b814fe.js.map",
+  "static/css/main.0bd76518.chunk.css.map": "/chatApp/static/css/main.0bd76518.chunk.css.map",
+  "index.html": "/chatApp/index.html",
+  "precache-manifest.5cdea7db64ded0cb8a2ba1e8945b93b1.js": "/chatApp/precache-manifest.5cdea7db64ded0cb8a2ba1e8945b93b1.js",
+  "service-worker.js": "/chatApp/service-worker.js"
+}
